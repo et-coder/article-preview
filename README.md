@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.png)
+![](./images/Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/article-preview-component-kgUdG5adr2)
+- Live Site URL: [live site URL here](https://et-coder.github.io/article-preview)
 
 ## My process
 
@@ -38,6 +38,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- vanilla javascript
 
 ## Author
 
